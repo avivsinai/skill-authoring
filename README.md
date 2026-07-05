@@ -24,7 +24,7 @@ Or via the [avivsinai marketplace](https://github.com/avivsinai/skills-marketpla
 
 ## Provenance
 
-Authored by [David Zhang](https://github.com/dzhng) in [dzhng/skills](https://github.com/dzhng/skills); vendored with attribution under MIT, with light description adjustments for routing alongside other installed skill tooling. Packaging by [Aviv Sinai](https://github.com/avivsinai).
+Authored by [David Zhang](https://github.com/dzhng) in [dzhng/skills](https://github.com/dzhng/skills); vendored with attribution under MIT, with light adaptations: routing-focused descriptions (clear boundary vs skill-creator) and three small clarity/licensing fixes (inputs-to-settle framing, package-README scope, license-notice preservation). Packaging by [Aviv Sinai](https://github.com/avivsinai).
 
 ## License
 
