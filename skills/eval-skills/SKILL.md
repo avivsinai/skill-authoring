@@ -1,6 +1,6 @@
 ---
 name: eval-skills
-description: Eval and improve a skill against golden cases — run the target skill blind in a fresh, context-free subagent on each example input, grade the artifact against the expected outcome, and let the gaps drive the edits. Use when the user wants to test/eval/improve/harden a skill, says "this skill keeps producing X / keeps missing Y", or hands a skill plus example input→expected-output pairs. Pairs with [write-skills](../write-skills/SKILL.md) (the authoring principles every fix obeys). Runs with plain subagents — no dedicated eval harness required; complements harness-based tools such as skill-creator.
+description: Eval and improve a skill against golden cases — run the target skill blind in a fresh, context-free subagent on each example input, grade the artifact against the expected outcome, and let the gaps drive the edits. Use when the user wants to test/eval/improve/harden a skill, says "this skill keeps producing X / keeps missing Y", or hands a skill plus example input→expected-output pairs. Pairs with write-skills (the authoring principles every fix obeys). Runs with plain subagents — no dedicated eval harness required; complements harness-based tools such as skill-creator.
 ---
 
 # Eval Skills
